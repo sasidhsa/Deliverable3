@@ -3,9 +3,9 @@ package ca.sheridancollege.project;
 import java.util.Scanner;
 
 /**
- * @author davinder
- * @author gavin
- * @author ruban
+ * @author saranya
+ * @author navdeep
+ * @author roshan
  *
  * A class that contains the main method to run the War game.
  */
